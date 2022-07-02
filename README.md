@@ -2,6 +2,7 @@
 #### *Applied statistics and hypothesis testing to analyze a series of datasets from the automotive industry* 
 Click here to view the R-Script: [MechaCarChallenge.RScript](https://github.com/gforce2332/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
 
+
 ## Linear Regression to Predict MPG
 ![linear_regression_summary](https://user-images.githubusercontent.com/98711219/176985962-5a26dc4c-6a4b-4469-b908-4e1a7f1370c0.png)
 
