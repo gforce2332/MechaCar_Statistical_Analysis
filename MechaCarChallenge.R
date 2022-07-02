@@ -33,6 +33,3 @@ t.test(Lot2$PSI, mu = 1500)
 # p-value = 0.6072
 t.test(Lot3$PSI, mu = 1500)
 # p-value = 0.04168
-
-
-
