@@ -32,3 +32,22 @@ Click here to view the R-Script: [MechaCarChallenge.RScript](https://github.com/
 * A review of the results of the T-test for the suspension coils for Lot 1 and Lot 2 shows that they are not statistically different from the population mean and the p-value is not low enough at 1 and 0.6072 for us to reject the null hypothesis.
 * A review of the results of the T-test for the suspension coils for Lot 3 shows slightly statically different from the population mean, and the p-value is low enough (0.04168) for us to reject the null hypothesis. This lot needs to be more closely evaluated or possibly discarded. 
 
+
+## Study Design: MechaCar vs Competition
+
+Consumers take into consideration many factors when evaluating a car purchase. In addition to cost and safety rating when comparing MechaCar to it's competitors, and the price of gasoline rising exponentially city and highway fuel efficiency would be of great interest to consumers.
+
+1. What metric or metrics are you going to test?
+Safety rating and fuel efficiency would be the next metrics to test. 
+
+2. What is the null hypothesis or alternative hypothesis?    
+The null hypothesis is that the mean of the safety rating is zero. The alternative hypothesis is that the mean of the safety rating is not zero.
+
+3. What statistical test would you use to test the hypothesis? And why?     
+Using a multiple linear regression statistical summary would show how the variables impact the safety ratings and fuel efficiency for MechaCar and their competitors.
+
+4. What data is needed to run the statistical test?     
+A random sample of n > 30 for MechaCar and their competitor would need to be collected including city and highway fuel efficiency and the safety ratings.
+
+
+
