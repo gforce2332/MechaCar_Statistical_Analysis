@@ -17,3 +17,18 @@ Click here to view the R-Script: [MechaCarChallenge.RScript](https://github.com/
 ![lot_summary](https://user-images.githubusercontent.com/98711219/176987206-b5394139-ac9c-4a07-b47e-01a65d1c1a14.png)
 
 * The design specifications for the MechaCar suspension coils dictate that the variance must not exceed 100 pounds per square inch. While the overall variance in the total summary data above is under 100 psi and meets specifications, there is a problem with one of the individual lots. The variance for Lot 3 is well over the acceptable threshold at 170.28.
+
+
+## T-Tests on Suspension Coils 
+
+* Suspension Coils Cumulative T-test
+
+![t_test](https://user-images.githubusercontent.com/98711219/176987586-8a4e13cd-ed74-4fe6-bbe5-f4acf2dc4eb8.png)
+
+* A review of the results of the T-test for the suspension coils across all the manufacturing lots shows that they are not statistically different from the population mean and the p-value is not low enough (.06028) for us to reject the null hypothesis.
+
+
+![lots_t_test](https://user-images.githubusercontent.com/98711219/176987733-e149a651-faad-4d4e-9044-26c42097aa38.png)
+* A review of the results of the T-test for the suspension coils for Lot 1 and Lot 2 shows that they are not statistically different from the population mean and the p-value is not low enough at 1 and 0.6072 for us to reject the null hypothesis.
+* A review of the results of the T-test for the suspension coils for Lot 3 shows slightly statically different from the population mean, and the p-value is low enough (0.04168) for us to reject the null hypothesis. This lot needs to be more closely evaluated or possibly discarded. 
+
